@@ -83,7 +83,6 @@
 				<Item Name="AO.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Interface.lvlibp/Analog Output/AO.lvclass"/>
 				<Item Name="DI.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Interface.lvlibp/Digital Input/DI.lvclass"/>
 				<Item Name="DO.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Interface.lvlibp/Digital Output/DO.lvclass"/>
-				<Item Name="Waveform.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Interface.lvlibp/Analog Waveform/Waveform.lvclass"/>
 			</Item>
 			<Item Name="CEF.lvlibp" Type="LVLibp" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/CEF.lvlibp">
 				<Item Name="class discovery singleton" Type="Folder">
@@ -219,14 +218,12 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/CEF.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
 			</Item>
 			<Item Name="Abstract Engine.lvlibp" Type="LVLibp" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp">
-				<Item Name="Configurations" Type="Folder">
-					<Item Name="Engine configuration.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Plugin/Abstract/Engine configuration/Engine configuration.lvclass"/>
-					<Item Name="Instrument configuration.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Plugin/Abstract/Instrument configuration/Instrument configuration.lvclass"/>
-					<Item Name="Channel configuration.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Plugin/Abstract/Channel configuration/Channel configuration.lvclass"/>
-				</Item>
-				<Item Name="Abstract Engine.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Plugin/Abstract/Abstract Engine/Abstract Engine.lvclass"/>
-				<Item Name="Abstract Instrument.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Plugin/Abstract/Abstract Instrument/Abstract Instrument.lvclass"/>
-				<Item Name="Abstract Channel.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Plugin/Abstract/Abstract Channel/Abstract Channel.lvclass"/>
+				<Item Name="Abstract Engine.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Abstract Engine/Abstract Engine.lvclass"/>
+				<Item Name="Abstract Instrument.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Abstract Instrument/Abstract Instrument.lvclass"/>
+				<Item Name="Abstract Channel.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Abstract Channel/Abstract Channel.lvclass"/>
+				<Item Name="Engine configuration.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Engine configuration/Engine configuration.lvclass"/>
+				<Item Name="Instrument configuration.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Instrument configuration/Instrument configuration.lvclass"/>
+				<Item Name="Channel configuration.lvclass" Type="LVClass" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Channel configuration/Channel configuration.lvclass"/>
 				<Item Name="BuildErrorSource.vi" Type="VI" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/1abvi3w/vi.lib/Platform/fileVersionInfo.llb/BuildErrorSource.vi"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/1abvi3w/vi.lib/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Check Special Tags.vi"/>
@@ -247,7 +244,6 @@
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/1abvi3w/vi.lib/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/1abvi3w/vi.lib/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/1abvi3w/vi.lib/Utility/LVClass/Get LV Class Name.vi"/>
-				<Item Name="Get PPL with version.vi" Type="VI" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Utility/Get PPL with version.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Get String Text Bounds.vi"/>
 				<Item Name="Get System Directory.vi" Type="VI" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/1abvi3w/vi.lib/Utility/sysdir.llb/Get System Directory.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/1abvi3w/vi.lib/picture/picture.llb/Get Text Rect.vi"/>
@@ -288,7 +284,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/Sandia National Labs/TSS Plugin/Engines</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{465C64C8-ADED-45E4-86C6-90ADA79FD07F}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">0</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Bld_version.patch" Type="Int">0</Property>

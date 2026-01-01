@@ -153,13 +153,4 @@
     </Info>
   </Item>
 
-  <Item ID="98111A41-C56E-4599-A655-F18A95AE" Type="Project" Version="1.1">
-    <Info Path="..\Engines\Special Test\Special Test.lvproj" x64="TRUE">
-      <Config Name="Debug">
-        <Debug Spec="Special Test" Target="My Computer"/>
-      </Config>
-      <Config Name="Release"/>
-    </Info>
-  </Item>
-
 </Solution>

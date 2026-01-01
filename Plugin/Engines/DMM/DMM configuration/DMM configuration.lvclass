@@ -36,7 +36,7 @@
 	<Property Name="NI.LVClass.LowestCompatibleVersion" Type="Str">1.0.0.17</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
-		<Item Name="Abstract Engine.lvlibp:Instrument configuration.lvclass" Type="Parent" URL="../../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Plugin/Abstract/Instrument configuration/Instrument configuration.lvclass"/>
+		<Item Name="Abstract Engine.lvlibp:Instrument configuration.lvclass" Type="Parent" URL="../../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Instrument configuration/Instrument configuration.lvclass"/>
 	</Item>
 	<Item Name="DMM configuration.ctl" Type="Class Private Data" URL="DMM configuration.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

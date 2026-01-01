@@ -35,7 +35,7 @@
 	<Property Name="NI.LVClass.LowestCompatibleVersion" Type="Str">1.0.0.2</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
-		<Item Name="Abstract Engine.lvlibp:Abstract Engine.lvclass" Type="Parent" URL="../../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Plugin/Abstract/Abstract Engine/Abstract Engine.lvclass"/>
+		<Item Name="Abstract Engine.lvlibp:Abstract Engine.lvclass" Type="Parent" URL="../../../../../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/Abstract Engine.lvlibp/Abstract Engine/Abstract Engine.lvclass"/>
 	</Item>
 	<Item Name="Digital IO Engine.ctl" Type="Class Private Data" URL="Digital IO Engine.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

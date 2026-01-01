@@ -11,6 +11,6 @@
 	</Item>
 	<Item Name="Digital IO Engine.lvclass" Type="LVClass" URL="../Digital IO Engine/Digital IO Engine.lvclass"/>
 	<Item Name="Digital IO Instrument.lvclass" Type="LVClass" URL="../Digital IO Instrument/Digital IO Instrument.lvclass"/>
-	<Item Name="Digital IO Channel.lvclass" Type="LVClass" URL="../FPGA Channel/Digital IO Channel.lvclass"/>
+	<Item Name="Digital IO Channel.lvclass" Type="LVClass" URL="../Digital IO Channel/Digital IO Channel.lvclass"/>
 	<Item Name="Digital IO Channel configuration.lvclass" Type="LVClass" URL="../Digital IO Channel configuration/Digital IO Channel configuration.lvclass"/>
 </Library>
