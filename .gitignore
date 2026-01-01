@@ -1,0 +1,8 @@
+# Metadata
+*.aliases
+*.lvlps
+*.xlsx
+*.log*
+**/__pycache__/
+*.py[cod]
+Anidoc-Output/

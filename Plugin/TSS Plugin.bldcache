@@ -1,0 +1,358 @@
+[92A32B8D-05A3-4B4B-AF4A-86F2C8C4]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=CEF
+Value 0.Checksum.Checksum=23dae72d1bd3567d5e1386ee70615606
+
+[592A697D-05EC-4C4F-8246-485889BD]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Abstract PlugIn
+Value 0.Checksum.Checksum=10604394ddbbeee8ccc7ab308b78757f
+
+[05282467-4F9A-475F-870B-BC59C09A]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=System
+Value 0.Checksum.Checksum=4e2bed5514a48bb15785fdead08a4a50
+
+[0FCE2370-3FAC-429E-B40A-265AFC90]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=DMM
+Value 0.Checksum.Checksum=ec36dd0dc68789318ccdb47059df7ed7
+
+[59ECC0A1-C664-452C-8B64-1054E3A2]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=FPGA
+Value 0.Checksum.Checksum=825816e9b44c79d647b356ecf8ea295a
+
+[B9619A69-7B03-4772-97FE-0D656DA8]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Interface
+Value 0.Checksum.Checksum=ea5db872f932c0c3de96cc18f794a427
+
+[10F62F08-9056-44E8-932B-0FC59A82]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=DC Power
+Value 0.Checksum.Checksum=901ed3f11780c08db90e1a179a15444b
+
+[3BD210EB-E26E-43C2-80FE-ED6B56A3]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Digitizer
+Value 0.Checksum.Checksum=3e2316c48ab31b68e0d50779a6de01a5
+
+[9D02CD68-EDCF-4617-A22A-54D56703]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Fgen
+Value 0.Checksum.Checksum=9f15c572d883d34829a3e82a0d2e49a2
+
+[D445B08B-83C1-4009-A1DB-58D9B136]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Scope
+Value 0.Checksum.Checksum=f6d7b5051e09b3e64cd072c2b740fb0e
+
+[D704F9FF-E27D-4EEC-8C75-DD01F622]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Synchronization
+Value 0.Checksum.Checksum=c2710dea6a0b651842359b650b287cd1
+
+[Window Positions]
+Solution Explorer = "170,-1118,551,-344"
+
+[Solution Explorer]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Build Configuration=Debug
+
+[2D9DA3B9-6E31-422D-AA3F-F3BF820F]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=TSS Server
+Value 0.Checksum.Checksum=f07743fc99116043815ee6266bbbf8c9
+
+[6BF95EFC-FE03-4A52-8D99-DACEBFA7]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=HW Engine
+Value 0.Checksum.Checksum=2602fad6977512ad960887a847c9f23d
+
+[2D5AC05B-C327-4AF6-AEFD-F0C6A7BF]
+MGI RWA Section Options = 2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value = <1>
+Value 0.Checksum.Target = My Computer
+Value 0.Checksum.Build Spec = Sequence
+Value 0.Checksum.Checksum = 763e2a3c476a60fb7bd39322f9a4cb98
+
+[F69D0DC2-A38D-4FC1-9B03-A0549D0B]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Test Sequence
+Value 0.Checksum.Checksum=70d18d08a2b6c4eca81c6a06c3836e23
+
+[87B0C274-0D86-42F2-890C-88A7A1DA]
+MGI RWA Section Options = 2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value = <1>
+Value 0.Checksum.Target = My Computer
+Value 0.Checksum.Build Spec = TestStep
+Value 0.Checksum.Checksum = 7a9326ad3b51676c592b7764a5351056
+[3C073BD2-AE0C-4C0D-A8A5-377BB33A]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Event
+Value 0.Checksum.Checksum=e0b43d35e3532a497b1c7f090c9d011d
+
+[4629430D-D484-47BC-8FCB-77585F87]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Logging
+Value 0.Checksum.Checksum=bc49e8097489435878aa9956c4d57eba
+
+[BD13FE1D-6192-48F2-A912-852FBA67]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Logging
+Value 0.Checksum.Checksum=ab8bd66e9bc950e9765d9044a6f94cb7
+
+[68F73A88-9CE9-4456-951C-CBC3AAB6]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Test
+Value 0.Checksum.Checksum=13ed4714da8e4ff1c488e4cf40696c86
+
+[D356E1F0-5CE7-4AA1-8CB8-106F5BD8]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Special Test
+Value 0.Checksum.Checksum=cb81d4836c56d233d483b9f8fcad6e02
+
+[51341412-A15D-4757-9278-806645C6]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=SAM
+Value 0.Checksum.Checksum=596b3e6e9b34f28b04238fb71fe94662
+
+[040139FE-6DDA-456F-9F44-E9879D37]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=DMM Adhoc
+Value 0.Checksum.Checksum=493974d1d7f422c0bb0071b63a24aed1
+
+[E1485B86-D2CA-4E81-A31B-E81E2EC6]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=System
+<<<<<<< HEAD
+Value 0.Checksum.Checksum=2188318cce9a2fd9f8b1b58c9d4b164c
+=======
+<<<<<<< HEAD
+Value 0.Checksum.Checksum=59023f7675b82cc186936d15a33d8a68
+=======
+Value 0.Checksum.Checksum=89f6c086c1e3275fa9054f94ba7923b0
+>>>>>>> 87a8e1fcd208e81d91e9192b4b275a9438466aff
+>>>>>>> 22fef7f67fe56e8cab7767e923166bd0a6c9940d
+
+[E3836420-FD46-4F52-9E86-AB1C69E4]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=HW Engine
+Value 0.Checksum.Checksum=2ebbfec146023eb8f121930f99935de3
+
+[FD119C62-70DA-4264-A77C-7A9833AA]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Logging
+Value 0.Checksum.Checksum=2242a76d0d549948213d17c7c70fc277
+
+[0B560F37-4CFA-4D82-B568-2913FB85]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Test Sequence
+Value 0.Checksum.Checksum=8eefb3c22ed2352f20ebd0639fd7d89b
+
+[2BD15520-7633-47F1-BEB6-F78CBB1D]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Test Sequence
+<<<<<<< HEAD
+Value 0.Checksum.Checksum=bff96639c29b103750fe758feb645f97
+=======
+<<<<<<< HEAD
+Value 0.Checksum.Checksum=4d6c590691061eec0b38f89482f3df26
+=======
+Value 0.Checksum.Checksum=94a8244a1027ae2bc8082e75d8d808f8
+>>>>>>> 87a8e1fcd208e81d91e9192b4b275a9438466aff
+>>>>>>> 22fef7f67fe56e8cab7767e923166bd0a6c9940d
+
+[23731511-B382-4E09-8788-73B58B79]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=DC Power
+Value 0.Checksum.Checksum=f2ee12a087dc7163180efad699958f27
+
+[B0499355-F8C9-4EE3-B248-FC7FC3DC]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Digitizer
+Value 0.Checksum.Checksum=5d1b40900b963c5d31a8dc04a6b2592b
+
+[6187D8FB-236D-4ADE-8C61-F623DE18]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=DMM
+Value 0.Checksum.Checksum=4805377b1a50df14d40c1f1149a2db5f
+
+[748722E9-F01C-49DB-AC5C-7AEF9E3F]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Fgen
+Value 0.Checksum.Checksum=ee64fcc2718c22c5ebc752c98a9f0064
+
+[2C1DC2AC-40AC-4BAE-9231-23ADFDEE]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=FPGA
+Value 0.Checksum.Checksum=697fc91616ddda5171cd017612a2664c
+
+[539CAAE9-3F75-45BA-A134-2F4AC880]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Scope
+Value 0.Checksum.Checksum=5eacec5448d8e00461a945a2b902e4c9
+
+[CA7B778C-4C19-4786-8556-C1B7DE07]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Synchronization
+Value 0.Checksum.Checksum=6db8ef12b2df3af2e38af68553987fa9
+
+[07476475-A7E1-40F3-A7FF-7AD61771]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Power Supply
+Value 0.Checksum.Checksum=4d59c53d077caa1e777c987e341f492e
+
+[BB7F434A-C17E-47F5-8991-9A7AAF34]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Digital IO
+Value 0.Checksum.Checksum=8fd7e1737ec4f18cb30e9703ccd45469
+
+[74B32146-3BF4-4312-B932-EC1F038A]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=ACIR
+Value 0.Checksum.Checksum=a5bd4fa18190caaeb75725a7ff0349f8
+
+[9EC38FC4-AAAE-4FC8-929F-E9EAA46B]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=HiPOT
+Value 0.Checksum.Checksum=ea3054cb2e70ba647223be1a6b95f204
+
+[63DCF7D6-F88F-4FE5-8F46-53B06C07]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Switch
+Value 0.Checksum.Checksum=2a60fff2922d0a1d153ec21e558904b6
+
+[DC7075C6-719E-41AD-A070-9DE60872]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Submodule EOL
+Value 0.Checksum.Checksum=8fabe93b1358cbbcdd14a85977c6564f
+
+[B2798236-AD86-49E8-8DC0-BBE9E11A]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=DMM Adhoc
+Value 0.Checksum.Checksum=a4e25557839c1c44f07c706e83bbb1e0
+
+[825196C5-DCF2-47AD-A5E6-4C946278]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Abstract Engine
+<<<<<<< HEAD
+Value 0.Checksum.Checksum=ae6436bd4e15d4becb21cd10ed1d5e89
+=======
+<<<<<<< HEAD
+Value 0.Checksum.Checksum=8539fff31b5d9bd37647027dfcaf25e6
+=======
+Value 0.Checksum.Checksum=a38ee5bfd29d38efb74cfc2ec20529d8
+>>>>>>> 87a8e1fcd208e81d91e9192b4b275a9438466aff
+>>>>>>> 22fef7f67fe56e8cab7767e923166bd0a6c9940d
+
+[9F91AC78-7EE6-4E82-A79C-CCD4D33C]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Event
+Value 0.Checksum.Checksum=75a1910f412ddea1ab3ad4f741e0d292
+
+[FDA74702-A997-42D8-A149-576E3BC9]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Abstract Engine
+Value 0.Checksum.Checksum=d397a8099d20cb351407e159dbeb36fe
+
+[24A2C67A-5A69-462D-A224-97E1E356]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Thermo
+Value 0.Checksum.Checksum=96385c66f0ccc1590d8d08e6076111f3
+
+[98111A41-C56E-4599-A655-F18A95AE]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value=<1>
+Value 0.Checksum.Target=My Computer
+Value 0.Checksum.Build Spec=Special Test
+Value 0.Checksum.Checksum=1fcef84bf7b1dc865e8e9d647098eaea

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Solution Version="1.1">
+
+  <Version Build="0" Major="0" Minor="1" Patch="0"/>
+
+  <Config Name="Debug">
+    <Exclude ID="87B0C274-0D86-42F2-890C-88A7A1DA"/>
+  </Config>
+
+  <Config Name="Release"/>
+
+  <Item ID="92A32B8D-05A3-4B4B-AF4A-86F2C8C4" Type="Project" Version="1.1">
+    <Info Path="..\CEF\CEF.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="CEF" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="B9619A69-7B03-4772-97FE-0D656DA8" Type="Project" Version="1.1">
+    <Info Path="..\Interface\Interface.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="Interface" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="FDA74702-A997-42D8-A149-576E3BC9" Type="Project" Version="1.1">
+    <Info Path="..\Abstract\Abstract Engine.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="Abstract Engine" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="E3836420-FD46-4F52-9E86-AB1C69E4" Type="Project" Version="1.1">
+    <Info Path="..\HW Engine\HW Engine.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="HW Engine" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="07476475-A7E1-40F3-A7FF-7AD61771" Type="Project" Version="1.1">
+    <Info Path="..\Engines\Power Supply\Power Supply.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="Power Supply" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="B0499355-F8C9-4EE3-B248-FC7FC3DC" Type="Project" Version="1.1">
+    <Info Path="..\Engines\Digitizer\Digitizer.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="Digitizer" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="63DCF7D6-F88F-4FE5-8F46-53B06C07" Type="Project" Version="1.1">
+    <Info Path="..\Engines\Switch\Switch.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="Switch" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="6187D8FB-236D-4ADE-8C61-F623DE18" Type="Project" Version="1.1">
+    <Info Path="..\Engines\DMM\DMM.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="DMM" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="748722E9-F01C-49DB-AC5C-7AEF9E3F" Type="Project" Version="1.1">
+    <Info Path="..\Engines\Fgen\Fgen.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="Fgen" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="2C1DC2AC-40AC-4BAE-9231-23ADFDEE" Type="Project" Version="1.1">
+    <Info Path="..\Engines\FPGA\FPGA.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="FPGA" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="539CAAE9-3F75-45BA-A134-2F4AC880" Type="Project" Version="1.1">
+    <Info Path="..\Engines\Scope\Scope.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="Scope" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="CA7B778C-4C19-4786-8556-C1B7DE07" Type="Project" Version="1.1">
+    <Info Path="..\Engines\Synchronization\Synchronization.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="Synchronization" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="BB7F434A-C17E-47F5-8991-9A7AAF34" Type="Project" Version="1.1">
+    <Info Path="..\Engines\Digital IO\Digital IO.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="Digital IO" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="74B32146-3BF4-4312-B932-EC1F038A" Type="Project" Version="1.1">
+    <Info Path="..\Engines\ACIR\ACIR.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="ACIR" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="9EC38FC4-AAAE-4FC8-929F-E9EAA46B" Type="Project" Version="1.1">
+    <Info Path="..\Engines\HiPOT\HiPOT.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="HiPOT" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="24A2C67A-5A69-462D-A224-97E1E356" Type="Project" Version="1.1">
+    <Info Path="..\Engines\Thermo\Thermo.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="Thermo" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="98111A41-C56E-4599-A655-F18A95AE" Type="Project" Version="1.1">
+    <Info Path="..\Engines\Special Test\Special Test.lvproj" x64="TRUE">
+      <Config Name="Debug">
+        <Debug Spec="Special Test" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+</Solution>
