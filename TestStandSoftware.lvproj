@@ -1214,6 +1214,7 @@
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="TestStandSoftware.vi" Type="VI" URL="../TestStandSoftware.vi"/>
 		<Item Name="Control Globals.vi" Type="VI" URL="../Control Globals.vi"/>
+		<Item Name="Test Config.ini" Type="Document" URL="../Test Config.ini"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="TSS package" Type="{E661DAE2-7517-431F-AC41-30807A3BDA38}">
@@ -1524,7 +1525,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/Sandia National Labs</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D3559BD5-4464-4DAD-8922-4367D0A15E56}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">21</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">TSS.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/Sandia National Labs/TSS.exe</Property>
@@ -1539,7 +1540,7 @@
 				<Property Name="Destination[2].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
 				<Property Name="Source[0].Container.applyDestination" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{1FDC3337-52F0-49D1-90FF-2CF368AE9F9C}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{D2B25EF6-0793-4C7A-90E9-B7F553FC92FF}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
@@ -1552,7 +1553,10 @@
 				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Launcher.vi</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Test Config.ini</Property>
+				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="SourceCount" Type="Int">4</Property>
 				<Property Name="TgtF_companyName" Type="Str">Sandia National Laboratories</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Test Stand Software</Property>
 				<Property Name="TgtF_internalName" Type="Str">TSS</Property>
