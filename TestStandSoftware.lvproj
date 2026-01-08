@@ -1197,19 +1197,6 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../Users/Public/Documents/Sandia National Labs/TSS Plugin/System.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
 			</Item>
 		</Item>
-		<Item Name="TestStand UI" Type="Folder">
-			<Item Name="Wait Event Callback.vi" Type="VI" URL="../Configuration Tools/TestStandUI/Wait Event Callback.vi"/>
-			<Item Name="Configure Application Manager.vi" Type="VI" URL="../Configuration Tools/TestStandUI/Configure Application Manager.vi"/>
-			<Item Name="Configure Event Callback.vi" Type="VI" URL="../Configuration Tools/TestStandUI/Configure Event Callback.vi"/>
-			<Item Name="Configure ExecutionView Manager.vi" Type="VI" URL="../Configuration Tools/TestStandUI/Configure ExecutionView Manager.vi"/>
-			<Item Name="Configure SequenceFileView Manager.vi" Type="VI" URL="../Configuration Tools/TestStandUI/Configure SequenceFileView Manager.vi"/>
-			<Item Name="DisplayErrorInEngineDialog .vi" Type="VI" URL="../Configuration Tools/TestStandUI/DisplayErrorInEngineDialog .vi"/>
-			<Item Name="DisplayExecution Event Callback.vi" Type="VI" URL="../Configuration Tools/TestStandUI/DisplayExecution Event Callback.vi"/>
-			<Item Name="DisplaySequenceFile Event Callback.vi" Type="VI" URL="../Configuration Tools/TestStandUI/DisplaySequenceFile Event Callback.vi"/>
-			<Item Name="ExitApplication Event Callback.vi" Type="VI" URL="../Configuration Tools/TestStandUI/ExitApplication Event Callback.vi"/>
-			<Item Name="Get Engine Reference.vi" Type="VI" URL="../Configuration Tools/TestStandUI/Get Engine Reference.vi"/>
-			<Item Name="ReportError Event Callback.vi" Type="VI" URL="../Configuration Tools/TestStandUI/ReportError Event Callback.vi"/>
-		</Item>
 		<Item Name="Config Tool.lvlib" Type="Library" URL="../Configuration Tools/Config Tool.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="TestStandSoftware.vi" Type="VI" URL="../TestStandSoftware.vi"/>
@@ -1525,7 +1512,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/Sandia National Labs</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D3559BD5-4464-4DAD-8922-4367D0A15E56}</Property>
-				<Property Name="Bld_version.build" Type="Int">26</Property>
+				<Property Name="Bld_version.build" Type="Int">29</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">TSS.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/Sandia National Labs/TSS.exe</Property>
