@@ -14,6 +14,6 @@
 	</Item>
 	<Item Name="DMM Engine.lvclass" Type="LVClass" URL="../DMM Engine/DMM Engine.lvclass"/>
 	<Item Name="DMM Instrument.lvclass" Type="LVClass" URL="../DMM Instrument/DMM Instrument.lvclass"/>
-	<Item Name="DMM configuration.lvclass" Type="LVClass" URL="../DMM configuration/DMM configuration.lvclass"/>
 	<Item Name="DMM Channel.lvclass" Type="LVClass" URL="../DMM Channel/DMM Channel.lvclass"/>
+	<Item Name="DMM configuration.lvclass" Type="LVClass" URL="../DMM configuration/DMM configuration.lvclass"/>
 </Library>
